@@ -8,5 +8,5 @@ Point Point_value(double x, double y){
 }
 
 void Point_print(Point *self){
-    printf("(%f, %f)\n", seld->x, self->y);
+    printf("(%f, %f)\n", self->x, self->y);
 }

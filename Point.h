@@ -14,6 +14,6 @@ Point Point_value(double x, double y);
 /**
  * Print a representation of a Point to stdout
  */
-void Pointer_print(Point *self);
+void Point_print(Point *self);
 
 #endif
